@@ -1,9 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomokiHirose)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomokiHirose)](https://github.com/anuraghazra/github-readme-stats)
 
-|JLDA General2020#2|TensorFlow Developer|
-|:--:|:--:|
-|<img src="https://user-images.githubusercontent.com/25477240/147797867-5d0a7609-25a1-4808-9102-38ba3bec6cd2.jpg" width=100px>|<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44083948" width=100px>|
+|JLDA General2020#2|TensorFlow Developer|AWS CLF|
+|:--:|:--:|:--:|
+|<img src="https://user-images.githubusercontent.com/25477240/147797867-5d0a7609-25a1-4808-9102-38ba3bec6cd2.jpg" width=100px>|<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44083948" width=100px>|<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100px>|
 
 
 <!---
